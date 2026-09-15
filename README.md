@@ -1,5 +1,5 @@
 # Online-Bookstore-Analyze
-This project focuses on analyzing an Online Bookstore database using SQL to extract meaningful insights about sales, customer behavior, and book performance. The goal of the project is to demonstrate practical SQL skills used in real-world data analyst roles.
+This project focuses on analyzing an Online Bookstore database using SQL to extract meaningful insights about sales, customer behavior, and book performance. The goal of the project is to demonstrate practical SQL skills used in real-world data analyst roles. also there is a step-by-step workflow of doing analysis using six-phases Ask-Prepare-Process-Analyze-Share-Act
 
 📚 Online Bookstore Data Analysis (SQL Project)
 📌 Project Overview
